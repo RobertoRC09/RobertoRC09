@@ -24,7 +24,7 @@
 ---
 
 <div align="center">
-  <h3>🚀 ¿Buscas un practicante de ingeniería en Pucallpa? ¡Hablemos!</h3>
+  <h3>📩 Contáctame</h3>
 
   <br>
 
