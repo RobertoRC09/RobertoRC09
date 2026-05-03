@@ -1,7 +1,7 @@
 <div align="center">
   <h1>¡Hola! 👋 soy Robert / RobertoRC09 ✨</h1>
   
-  <img src="https://raw.githubusercontent.com/RobertoRC09/RobertoRC09/main/logo.png?v=3" alt="Robert - Desarrollador de Software" width="100%"/>
+  <img src="https://raw.githubusercontent.com/RobertoRC09/RobertoRC09/main/logo.png?v=4" alt="Robert - Desarrollador de Software" width="100%"/>
 
   <br>
 
@@ -14,9 +14,9 @@
 ---
 
 - 🎓 **ESTUDIANTE DE INGENIERÍA DE SOFTWARE** en SENATI (V Ciclo).
-- 💻 Desarrollando un **Sistema de Cafetería** (Android/DB) y una plataforma para **Mariachis**.
-- 📍 Localización: **Pucallpa, Perú** (En busca de prácticas profesionales).
-- ⚡ Interés en la integración de Software y Hardware (**Arduino**).
+- 💻 Actualmente trabajando en un **Sistema de Cafetería** y una plataforma web para **Mariachis**.
+- 📍 Localización: **Pucallpa, Perú**.
+- 🛠️ Enfocado en el desarrollo de soluciones lógicas, escalables y eficientes.
 
 ## Tecnologías conocidas 👩‍💻
 
@@ -31,5 +31,5 @@
 ---
 
 <div align="center">
-  <p>¿Buscas un practicante en Pucallpa? ¡Hablemos!</p>
+  <p>¿Buscas un practicante de ingeniería en Pucallpa? ¡Hablemos!</p>
 </div>
