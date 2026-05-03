@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>¡Hola! 👋 soy Robert</h1>
+  <h1>¡Hola! 👋 Soy Robert</h1>
   
   <img src="https://raw.githubusercontent.com/RobertoRC09/RobertoRC09/main/logo.png" alt="Robert - Desarrollador de Software" width="100%"/>
 </div>
