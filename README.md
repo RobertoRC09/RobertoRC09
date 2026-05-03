@@ -1,17 +1,17 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Robert</h1>
+  <h1>¡Hola! 👋 soy Robert</h1>
   
-  <img src="https://raw.githubusercontent.com/RobertoRC09/RobertoRC09/main/logo.png" alt="Robert - Software Developer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/RobertoRC09/RobertoRC09/main/logo.png" alt="Robert - Desarrollador de Software" width="100%"/>
 </div>
 
-## About me 😃
+## Sobre mi 😃
 
 ---
 
-- 🎓 **Software Engineering Student** at SENATI.
-- 🛠️ Focused on building **logical, scalable, and efficient** solutions.
+- 🎓 **Estudiante de Ingeniería de Software** en SENATI.
+- 🛠️ Enfocado en crear soluciones **lógicas, escalables y eficientes**.
 
-## Tech Stack 👩‍💻
+## Tecnologías conocidas 👩‍💻
 
 ---
 
@@ -24,7 +24,7 @@
 ---
 
 <div align="center">
-  <p>📩 <strong>Get in touch</strong></p>
+  <p>📩 <strong>Contáctame</strong></p>
 
   <br>
 
@@ -36,11 +36,11 @@
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/">
+  <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://facebook.com/">
+  <a href="https://facebook.com">
     <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </div>
