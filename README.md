@@ -1,17 +1,17 @@
 <div align="center">
-  <h1>¡Hola! 👋 soy Robert</h1>
+  <h1>Hi there! 👋 I'm Robert</h1>
   
-  <img src="https://raw.githubusercontent.com/RobertoRC09/RobertoRC09/main/logo.png?v=5" alt="Robert - Desarrollador de Software" width="100%"/>
+  <img src="https://raw.githubusercontent.com/RobertoRC09/RobertoRC09/main/logo.png" alt="Robert - Software Developer" width="100%"/>
 </div>
 
-## Sobre mi 😃
+## About me 😃
 
 ---
 
-- 🎓 **Estudiante de Ingeniería de Software** en SENATI.
-- 🛠️ Enfocado en crear soluciones **lógicas, escalables y eficientes**.
+- 🎓 **Software Engineering Student** at SENATI.
+- 🛠️ Focused on building **logical, scalable, and efficient** solutions.
 
-## Tecnologías conocidas 👩‍💻
+## Tech Stack 👩‍💻
 
 ---
 
@@ -24,7 +24,7 @@
 ---
 
 <div align="center">
-  <h3>📩 Contáctame</h3>
+  <p>📩 <strong>Get in touch</strong></p>
 
   <br>
 
