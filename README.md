@@ -13,7 +13,7 @@
 
 ---
 
-- 🎓 **ESTUDIANTE DE INGENIERÍA DE SOFTWARE** en SENATI (V Ciclo).
+- 🎓 **ESTUDIANTE DE INGENIERÍA DE SOFTWARE** en SENATI 
 - 💻 Actualmente trabajando en un **Sistema de Cafetería** y una plataforma web para **Mariachis**.
 - 📍 Localización: **Pucallpa, Perú**.
 - 🛠️ Enfocado en el desarrollo de soluciones lógicas, escalables y eficientes.
